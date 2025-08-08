@@ -18,3 +18,11 @@ starlette==0.47.2
 typing-inspection==0.4.1
 typing_extensions==4.14.1
 uvicorn==0.35.0
+
+passlib==1.7.4
+bcrypt==3.2.2
+python-jose
+
+email-validator
+
+python-multipart
